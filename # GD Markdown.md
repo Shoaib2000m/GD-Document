@@ -72,7 +72,7 @@ Both Open Source and Proprietary Software have their strengths and weaknesses. I
 
 1\. \[Difference between Open Source Software and Proprietary Software \- GeeksforGeeks\](https://www.geeksforgeeks.org/difference-between-open-source-software-and-proprietary-software/?utm\_source=chatgpt.com)
 
-2.\[https://www.tutorialspoint.com/difference-between-open-source-and-proprietary-software\](https://www.tutorialspoint.com/difference-between-open-source-and-proprietary-software)
+2.\[Difference between Open Source and Proprietary Software\](https://www.tutorialspoint.com/difference-between-open-source-and-proprietary-software)
 
 3\. \[Open-Source vs. Proprietary Software Pros and Cons\](https://www.optimusinfo.com/downloads/white-paper/open-source-vs-proprietary-software-pros-and-cons.pdf)
 
